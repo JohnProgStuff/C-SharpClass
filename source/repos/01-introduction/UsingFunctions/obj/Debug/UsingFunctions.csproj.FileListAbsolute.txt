@@ -1,0 +1,6 @@
+C:\Users\CCEClass1\source\repos\01-introduction\UsingFunctions\bin\Debug\UsingFunctions.exe.config
+C:\Users\CCEClass1\source\repos\01-introduction\UsingFunctions\bin\Debug\UsingFunctions.exe
+C:\Users\CCEClass1\source\repos\01-introduction\UsingFunctions\bin\Debug\UsingFunctions.pdb
+C:\Users\CCEClass1\source\repos\01-introduction\UsingFunctions\obj\Debug\UsingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\CCEClass1\source\repos\01-introduction\UsingFunctions\obj\Debug\UsingFunctions.exe
+C:\Users\CCEClass1\source\repos\01-introduction\UsingFunctions\obj\Debug\UsingFunctions.pdb

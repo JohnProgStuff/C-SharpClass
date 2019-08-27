@@ -1,0 +1,6 @@
+C:\Users\johnpetersen\source\repos\01-introduction\Exercise.Hello\bin\Debug\Exercise.Hello.exe.config
+C:\Users\johnpetersen\source\repos\01-introduction\Exercise.Hello\bin\Debug\Exercise.Hello.exe
+C:\Users\johnpetersen\source\repos\01-introduction\Exercise.Hello\bin\Debug\Exercise.Hello.pdb
+C:\Users\johnpetersen\source\repos\01-introduction\Exercise.Hello\obj\Debug\Exercise.Hello.csproj.CoreCompileInputs.cache
+C:\Users\johnpetersen\source\repos\01-introduction\Exercise.Hello\obj\Debug\Exercise.Hello.exe
+C:\Users\johnpetersen\source\repos\01-introduction\Exercise.Hello\obj\Debug\Exercise.Hello.pdb

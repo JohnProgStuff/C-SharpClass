@@ -1,0 +1,7 @@
+C:\Users\CCEClass1\source\repos\01-introduction\SimpleDateTypes\bin\Debug\SimpleDateTypes.exe.config
+C:\Users\CCEClass1\source\repos\01-introduction\SimpleDateTypes\bin\Debug\SimpleDateTypes.exe
+C:\Users\CCEClass1\source\repos\01-introduction\SimpleDateTypes\bin\Debug\SimpleDateTypes.pdb
+C:\Users\CCEClass1\source\repos\01-introduction\SimpleDateTypes\obj\Debug\SimpleDateTypes.csprojAssemblyReference.cache
+C:\Users\CCEClass1\source\repos\01-introduction\SimpleDateTypes\obj\Debug\SimpleDateTypes.csproj.CoreCompileInputs.cache
+C:\Users\CCEClass1\source\repos\01-introduction\SimpleDateTypes\obj\Debug\SimpleDateTypes.exe
+C:\Users\CCEClass1\source\repos\01-introduction\SimpleDateTypes\obj\Debug\SimpleDateTypes.pdb

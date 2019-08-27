@@ -1,0 +1,7 @@
+C:\Users\johnpetersen\source\repos\02-OOP\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Users\johnpetersen\source\repos\02-OOP\ClassExample\bin\Debug\ClassExample.exe
+C:\Users\johnpetersen\source\repos\02-OOP\ClassExample\bin\Debug\ClassExample.pdb
+C:\Users\johnpetersen\source\repos\02-OOP\ClassExample\obj\Debug\ClassExample.csprojAssemblyReference.cache
+C:\Users\johnpetersen\source\repos\02-OOP\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+C:\Users\johnpetersen\source\repos\02-OOP\ClassExample\obj\Debug\ClassExample.exe
+C:\Users\johnpetersen\source\repos\02-OOP\ClassExample\obj\Debug\ClassExample.pdb

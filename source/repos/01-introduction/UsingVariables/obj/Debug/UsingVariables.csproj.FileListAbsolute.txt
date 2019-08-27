@@ -1,0 +1,7 @@
+C:\Users\CCEClass1\source\repos\01-introduction\UsingVariables\bin\Debug\UsingVariables.exe.config
+C:\Users\CCEClass1\source\repos\01-introduction\UsingVariables\bin\Debug\UsingVariables.exe
+C:\Users\CCEClass1\source\repos\01-introduction\UsingVariables\bin\Debug\UsingVariables.pdb
+C:\Users\CCEClass1\source\repos\01-introduction\UsingVariables\obj\Debug\UsingVariables.csprojAssemblyReference.cache
+C:\Users\CCEClass1\source\repos\01-introduction\UsingVariables\obj\Debug\UsingVariables.csproj.CoreCompileInputs.cache
+C:\Users\CCEClass1\source\repos\01-introduction\UsingVariables\obj\Debug\UsingVariables.exe
+C:\Users\CCEClass1\source\repos\01-introduction\UsingVariables\obj\Debug\UsingVariables.pdb
