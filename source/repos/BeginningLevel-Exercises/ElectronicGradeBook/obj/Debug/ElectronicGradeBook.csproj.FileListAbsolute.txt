@@ -1,0 +1,7 @@
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradeBook\bin\Debug\ElectronicGradeBook.exe.config
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradeBook\bin\Debug\ElectronicGradeBook.exe
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradeBook\bin\Debug\ElectronicGradeBook.pdb
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradeBook\obj\Debug\ElectronicGradeBook.csprojAssemblyReference.cache
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradeBook\obj\Debug\ElectronicGradeBook.csproj.CoreCompileInputs.cache
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradeBook\obj\Debug\ElectronicGradeBook.exe
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradeBook\obj\Debug\ElectronicGradeBook.pdb

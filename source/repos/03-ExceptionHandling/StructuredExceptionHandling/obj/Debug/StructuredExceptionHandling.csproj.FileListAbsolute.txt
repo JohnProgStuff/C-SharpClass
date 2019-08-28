@@ -1,0 +1,7 @@
+C:\Users\johnpetersen\source\repos\03-ExceptionHandling\StructuredExceptionHandling\bin\Debug\StructuredExceptionHandling.exe.config
+C:\Users\johnpetersen\source\repos\03-ExceptionHandling\StructuredExceptionHandling\bin\Debug\StructuredExceptionHandling.exe
+C:\Users\johnpetersen\source\repos\03-ExceptionHandling\StructuredExceptionHandling\bin\Debug\StructuredExceptionHandling.pdb
+C:\Users\johnpetersen\source\repos\03-ExceptionHandling\StructuredExceptionHandling\obj\Debug\StructuredExceptionHandling.csprojAssemblyReference.cache
+C:\Users\johnpetersen\source\repos\03-ExceptionHandling\StructuredExceptionHandling\obj\Debug\StructuredExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\johnpetersen\source\repos\03-ExceptionHandling\StructuredExceptionHandling\obj\Debug\StructuredExceptionHandling.exe
+C:\Users\johnpetersen\source\repos\03-ExceptionHandling\StructuredExceptionHandling\obj\Debug\StructuredExceptionHandling.pdb

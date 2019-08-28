@@ -1,0 +1,17 @@
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\ElectronicGradebook.Tests.dll
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\ElectronicGradebook.Tests.pdb
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\ElectronicGradeBook.exe
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\ElectronicGradeBook.pdb
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\ElectronicGradeBook.exe.config
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\obj\Debug\ElectronicGradebook.Tests.csprojAssemblyReference.cache
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\obj\Debug\ElectronicGradebook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\obj\Debug\ElectronicGradebook.Tests.csproj.CopyComplete
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\obj\Debug\ElectronicGradebook.Tests.dll
+C:\Users\johnpetersen\source\repos\BeginningLevel-Exercises\ElectronicGradebook.Tests\obj\Debug\ElectronicGradebook.Tests.pdb
