@@ -1,5 +1,0 @@
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\MathOperators\bin\Debug\MathOperators.exe.config
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\MathOperators\bin\Debug\MathOperators.exe
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\MathOperators\bin\Debug\MathOperators.pdb
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\MathOperators\obj\Debug\MathOperators.exe
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\MathOperators\obj\Debug\MathOperators.pdb

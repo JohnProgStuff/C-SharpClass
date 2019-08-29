@@ -134,6 +134,113 @@ namespace GenericsExample
             Console.WriteLine(anotherList);
             Swap(ref intList, ref anotherList); // types must be the same
             Console.WriteLine("s1=" + d1 + ", s2=" + d2);
+
+            // simple arrays
+            string[] fruits = { "Apple", "Orange", "Grapes" };
+            Console.WriteLine(fruits[1]);
+            fruits[2] = "Banana";
+            int[] weights = new int[10];
+            Console.WriteLine(weights[0]);
+
+            string[,] sections = new string[3, 2];
+            sections[0, 0] = "top left";
+            sections[0, 1] = "top right";
+
+            //List
+            var fruitlist = new List<string>();
+            fruitlist.Add("apple");
+            fruitlist.Add("orange");
+            fruitlist.Add("banana");
+            Console.WriteLine(fruitlist);
+            foreach (var item in fruitlist)
+            {
+                Console.WriteLine(item);
+            }
+            fruitlist.Sort();
+            foreach (var item in fruitlist)
+            {
+                Console.WriteLine(item);
+            }
+
+            // Dictionary
+            var inventory = new Dictionary<string, double>();
+            inventory.Add("Apple",19);
+            inventory.Add("Orange", 49);
+            inventory.Add("Banana", 57);
+
+            var keys = inventory.Keys;
+            foreach (var item in keys)
+            {
+                Console.WriteLine("Key: " + item);
+                Console.WriteLine("Value: " + inventory[item]);
+                // if key doesn't exist the line above will have an exception
+            }
+
+            double value;
+            //Try to get the value of key 'watermelon' which doesn't exit
+            if(inventory.TryGetValue("Watermelon", out value)) 
+            {
+                Console.WriteLine("Watermelon inventory: " + value);
+            }
+            else
+            {
+                Console.WriteLine("Watermelon not found in inventory");
+            }
+
+            if (inventory.TryGetValue("Apple", out value))
+            {
+                Console.WriteLine("Apples left: " + inventory["Apple"]);
+                Console.WriteLine("Costumer bought 15 apples");
+                inventory["Apple"] = value-15; // person bought 19-4=15 apples 4 left
+                Console.WriteLine("Apples left: " + inventory["Apple"]);
+            }
+
+            var prices = new Dictionary<string, double>();
+            prices.Add("Apple", .79);
+            prices.Add("Orange", 1.15);
+            prices.Add("Banana", .54);
+            // a better way would be to search both lists
+            double totalBeforeTax = 0;
+            if (prices.TryGetValue("Apple", out value))
+            {
+                Console.WriteLine("Apples cost: " + prices["Apple"]);
+                Console.WriteLine("Costumer bought 15 apples");
+                totalBeforeTax = prices["Apple"] * 15; // person bought 19-4=15 apples 4 left
+                Console.WriteLine("Apples Total cost before tax: " + totalBeforeTax + "\n");
+            }
+
+
+            //sorted list
+            var sortedList = new SortedList<string, string>();
+            sortedList.Add("first", "David");
+            sortedList.Add("second", "Smith");
+            sortedList.Add("last", "Jack");
+
+            var skeys = sortedList.Keys;
+            foreach (var item in skeys)
+            {
+                Console.WriteLine("key = " + item + ", Value = " + sortedList[item]);
+            }
+
+            var days = new SortedList<int, string>();
+            days.Add(1, "Sunday");
+            days.Add(2, "Monday");
+            days.Add(4, "Wednesday");
+            days.Add(7, "Saturday");
+            days.Add(6, "Friday");
+            days.Add(3, "Tuesday");
+            days.Add(5, "Thursday");
+
+            var dkeys = days.Keys;
+            foreach (var item in dkeys)
+            {
+                Console.WriteLine("Day: " + item + ", Value = " + days[item]);
+            }
+
+            sortedList.Remove("first");
+
+
+
         } // endof main
 
         // use ref below to force objects to be passed by reference
@@ -145,7 +252,16 @@ namespace GenericsExample
             // a = b+a; // swap without a temp variable, won't work on some datatypes
             // b = a-b;
             // a = a-b;
+
+
+            int[] aaa = new int[10]; // after this swap function exits this memory will be handled by garbage collection on its own time.
+            // but if you return something then garbage collection won't take care of its memory.
+
         }// end of swap function
+
+
+
+
 
     } // end of Program class
 } // end of the .... namespace

@@ -1,6 +1,0 @@
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Repitition\bin\Debug\Repitition.exe.config
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Repitition\bin\Debug\Repitition.exe
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Repitition\bin\Debug\Repitition.pdb
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Repitition\obj\Debug\Repitition.csprojResolveAssemblyReference.cache
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Repitition\obj\Debug\Repitition.exe
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Repitition\obj\Debug\Repitition.pdb

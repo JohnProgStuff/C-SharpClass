@@ -1,6 +1,0 @@
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\UsingVariables\bin\Debug\UsingVariables.exe.config
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\UsingVariables\obj\Debug\UsingVariables.csprojResolveAssemblyReference.cache
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\UsingVariables\bin\Debug\UsingVariables.exe
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\UsingVariables\bin\Debug\UsingVariables.pdb
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\UsingVariables\obj\Debug\UsingVariables.exe
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\UsingVariables\obj\Debug\UsingVariables.pdb

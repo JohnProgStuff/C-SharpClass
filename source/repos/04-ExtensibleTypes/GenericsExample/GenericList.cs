@@ -52,6 +52,15 @@ namespace GenericsExample
             foot = null;
         }
 
+        // destructor
+        ~GenericList() // garbage collection takes care of calling the destructor which is done on its one time.
+        { // a class can only have one destructor
+          // structs don't have a destructor
+            Console.ForegroundColor = System.ConsoleColor.Red;
+            Console.WriteLine("GenericList Destroyed.");
+            Console.ForegroundColor = System.ConsoleColor.White;
+        }
+
         // methods:
         public void AddHead(T t)
         {

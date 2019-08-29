@@ -1,6 +1,0 @@
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Exercise.Hello\obj\Debug\Exercise.Hello.csprojResolveAssemblyReference.cache
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Exercise.Hello\bin\Debug\Exercise.Hello.exe.config
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Exercise.Hello\bin\Debug\Exercise.Hello.exe
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Exercise.Hello\bin\Debug\Exercise.Hello.pdb
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Exercise.Hello\obj\Debug\Exercise.Hello.exe
-c:\users\cceteach03\documents\visual studio 2015\Projects\Introduction\Exercise.Hello\obj\Debug\Exercise.Hello.pdb

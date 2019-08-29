@@ -1,0 +1,19 @@
+8/26/2019
+I MISSED THE LAST 2 hours on the 2nd day when OOP was introduced so Look in the instructor copy of code for that stuff
+.NET framework is like the virtual machine required to run java applications.
+	-.Net has 2 main components: Common language runtime(CLR) and Framework class Library (FCL)
+
+CLR
+-Execution environment for .NET apps
+-memory management and os/language support
+-understands managed code and converts to machine code at runtime, like python maybe?
+
+FCL
+-.NET framework consists of the CLR and a vast set of libraries (core library and applied libraries)
+
+WinRT vs C#
+WinRT is just windows 8-10 specific
+
+A good practice for c# camelcase is function names have first letter capital: FunctionName(), but variable names start with lowercase: variableName
+
+
